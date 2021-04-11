@@ -23,7 +23,7 @@ public class Triangle {
 
     }
 
-    void printPerimeterScanner() {
+    void printAreaScanner() {
 
         Scanner s = new Scanner(System.in);
 
